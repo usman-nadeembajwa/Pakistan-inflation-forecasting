@@ -75,4 +75,6 @@ src/               reserved for reusable code
 
 # Reproduce
 what i did is pip install pandas numpy matplotlib scikit-learn statsmodels
-At the end i would say that i  Open notebooks/01_data_check.ipynb in VS Code or Jupyter. The cells follow the order of the analysis: cleaning and merging, exploration, features and baseline, direct models, horizon test, base-effect model, SARIMA/SARIMAX.
+
+At the end I would say that I  Open notebooks/01_data_check.ipynb in VS Code or Jupyter. The cells follow the order of the analysis: cleaning and merging, exploration, features and baseline, direct models, horizon test, base-effect model, SARIMA/SARIMAX. However, what i hope is that our country would think about people first before rising the inflation level again, because some of them are still deprived from basic needs, as we get the data on monthly basis on SBP easy data, so what i am hoping that this time if time if they fulfilled IMF requirements, inflations would come down by using expansionary monetary policy.
+
